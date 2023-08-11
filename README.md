@@ -5,12 +5,11 @@
 ## 💬 Ask me about
 - 
 
-## 📅 Hobbies
-- 
 
 ## 💻 Current project
-- 
-## 📚 Learning
+-
 
+## 📚 Learning
+-
 
 ## 👯 I’m looking to collaborate on ...
